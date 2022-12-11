@@ -1,0 +1,37 @@
+.box__bren{
+      max-width: 1448px;
+      margin: 0 auto;
+      padding: 0px 20px;
+      margin-bottom: 50px;
+}
+
+.company__box {
+      width: 157px;
+      height: 62px;
+      background-color: white;
+      border-radius: 10px;
+      border: .5px solid rgb(245, 240, 240);
+      box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+  }
+  
+  .swiper-button-disabled {
+      opacity: .5;
+      cursor: auto;
+  }
+  
+  .compony__images {
+        width: 90px;
+        height: 30px;
+        object-fit: cover;
+  }
+  
+  .swiper-button-prev::after,
+  .swiper-button-next:after {
+      font-size: 25px;
+      color: gray;
+      cursor: pointer;
+  }

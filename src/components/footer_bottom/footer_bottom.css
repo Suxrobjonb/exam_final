@@ -1,0 +1,27 @@
+.footer__bottom {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-top: 1px solid #575757;
+      padding-top: 24px;
+      padding-bottom: 20px;
+      padding-left: 20px;
+      padding-right: 20px;
+      background-color: #333333;
+}
+
+.titel__bottom {  
+      color: hsla(0,0%,100%,.7);
+      max-width: 600px;
+      font-size: 12px;
+}
+
+.payment__wrap-list-box {
+      display: flex;
+      align-items: center;
+}
+
+.payment__wrap-list {
+      margin-left: 4px;
+      margin-right: 4px;
+}

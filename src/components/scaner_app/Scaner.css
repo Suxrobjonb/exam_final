@@ -1,0 +1,39 @@
+.box__app {
+      padding: 0 32px;
+      margin-top: 120px;
+      margin-bottom: 80px;      
+}
+
+.new__box {
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+      padding: 0 60px 0 80px;
+      background-color: #f7f7f7;
+      border-radius: 16px;
+}
+
+.info__title {
+      font-weight: 700;
+    font-size: 38px;
+    line-height: 140%;
+    color: #000;
+    margin-bottom: 20px;
+}
+
+.text__box {
+      font-size: 18px;
+      line-height: 26px;
+      margin-bottom: 20px;
+      max-width: 420px;
+}
+
+.Qr__code {
+      display: flex;
+      align-items: center;
+}
+
+.QR__text {
+      margin-left: 18px;
+      width: 180px;
+}

@@ -1,0 +1,28 @@
+.telegram__button {
+      position: fixed;
+      right: 60px;
+      top: 449px;
+      padding: 10px;      
+      background-color: #fff;
+      border: none;
+      border-radius: 50%;
+      box-shadow: 0 3px 5px rgb(0 0 0 / 6%);
+      cursor: pointer;
+}
+
+.button-img{
+      color: #039be5;
+      font-size: 24px;
+}
+
+.backto__button {
+      cursor: pointer;
+      position: fixed;
+      right: 60px;
+      padding: 10px;          
+      background-color:red;
+      border: none;
+      border-radius: 50%;
+      box-shadow: 0 3px 5px rgb(0 0 0 6%);  
+      transition: 505ms;
+}
